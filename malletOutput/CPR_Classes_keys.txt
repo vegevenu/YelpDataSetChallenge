@@ -1,0 +1,20 @@
+0	2.5	food rice chicken wife store coffee area dish home abc mecca jewel cucumber chalaw korma mint leek ashak soup 
+1	2.5	information night science noodle side shoe front saq gumbo concert start emergency safe instructor difference shy 
+2	2.5	beef order gentleman grill veg tikka potato guy supply service waitress goat water clear staff 
+3	2.5	chicken salad gentleman counter door wine kabab pakistani grocery spicing person exception parking gift dinner town beer day certificate 
+4	2.5	tomato cook rice elegance fact cauliflower spinach 
+5	2.5	aid brand aed mantoo plentiful total barberry coriander situations confidence student saving classes teacher medical negative kari hours 
+6	2.5	prism dessert hummus level delicious meal spicy load zaytoon explanation brother ground te providers wonderful program world 
+7	2.5	tea eater box skills schedule listing professionals concerned sticks 
+8	2.5	training class heart american staff buzz variety healthcare basic stuff august csn rn located anecdotes professional 
+9	2.5	lamb yogurt appetizer breast kind afghani pilau sense authenticity boat saffron care presence afghan choosiness 
+10	2.5	heartsaver center life lives osha note unfamiliar full process kind 
+11	2.5	lunch strip family baking occasion girlfriend point au chicken husnu search 
+12	2.5	son experience today pumpkin sheesh dog ufo indian leather interior bistro star chance husband eye 
+13	2.5	place restaurant sauce masala cilantro brother touch farsi mouth constraint pita technique web bummer pistachio combo tender basmati montreal 
+14	2.5	cpr tom association juicy website pediatric support passionate video teaching big google bit videos real 
+15	2.5	soup eggplant kick street tahoora cuisine garlic cilantro craving site royal relish ground state skills adjustments significant 
+16	2.5	mall crepe pita corner trio offsite video hrs cross volunteers 
+17	2.5	kabob bread car precision buttery byoy mashaba pied basic red quick excellent hours vein pros conversational 
+18	2.5	time flavor yumthe return friend saturday lot wraps onion pudding turnip vegetarian cochon 
+19	2.5	meat cardamon table pak zamzam clutter awahtukee coffee samosa bit equipment 
